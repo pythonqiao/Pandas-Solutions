@@ -1,5 +1,6 @@
 # Summary
 
 * [前言](README.md)
-* [First Chapter](chapter1.md)
+* [Series与DataFrame的构造](chapter1.md)
+  * [1.Series的构造](chapter1/1seriesde-gou-zao.md)
 
